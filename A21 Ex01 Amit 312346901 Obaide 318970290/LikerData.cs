@@ -24,7 +24,7 @@ namespace A21_Ex01_Amit_312346901_Obaide_318970290
             TotalLikes = 0;
             ProfilePhotoURL = liker.PictureNormalURL;
             FirstLikePhoto = null;
-            LastLikePhoto = null; 
+            LastLikePhoto = null;
             MostLikedPhoto = null;
             LeastLikedPhoto = null;
         }

@@ -10,7 +10,7 @@ namespace A21_Ex01_Amit_312346901_Obaide_318970290
         private const string AppId = "2695170000736846";
         private static readonly object sr_CreationalLockContect = new object();
         private static AppManager s_Instance = null;
-        private LoginResult m_LoginResult;
+        private LoginResult m_LoginResult; 
         private FormLogIn m_FormLogin = null;
         private FormMain m_FormMain = null; 
         private FormCheckInRecommendation m_FormCheckIn = null;

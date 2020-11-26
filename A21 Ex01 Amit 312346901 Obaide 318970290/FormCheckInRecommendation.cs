@@ -88,7 +88,7 @@ namespace A21_Ex01_Amit_312346901_Obaide_318970290
         }
 
         private void videosButton_Click(object sender, EventArgs e)
-        {
+        { 
             if (!isCheckInEmpty())
             {
                 m_URL = new Uri(string.Format(r_VideosTemplateUrl, m_Location));
