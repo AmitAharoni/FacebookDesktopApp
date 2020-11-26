@@ -19,7 +19,7 @@ namespace A21_Ex01_Amit_312346901_Obaide_318970290
         {
             InitializeComponent();
             m_AppManager = AppManager.Instance;
-            webBrowser.ScriptErrorsSuppressed = true;
+            webBrowser.ScriptErrorsSuppressed = true; 
             r_ImagesTemplateUrl = "https://www.google.com/search?q={0}&tbm=isch&q=findSomeImage";
             r_VideosTemplateUrl = "https://www.google.com/search?q={0}&tbm=vid";
             r_WeatherTemplateUrl = "https://www.google.com/search?q={0}+weather";
