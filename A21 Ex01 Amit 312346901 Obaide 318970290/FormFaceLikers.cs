@@ -17,7 +17,7 @@ namespace A21_Ex01_Amit_312346901_Obaide_318970290
         {
             public override int Compare(LikerData x, LikerData y)
             {
-                return x.TotalLikes.CompareTo(y.TotalLikes);
+                return x.TotalLikes.CompareTo(y.TotalLikes); 
             }
         }
 
