@@ -12,7 +12,7 @@ namespace A21_Ex01_Amit_312346901_Obaide_318970290
         private static AppManager s_Instance = null;
         private LoginResult m_LoginResult;
         private FormLogIn m_FormLogin = null;
-        private FormMain m_FormMain = null;
+        private FormMain m_FormMain = null; 
         private FormCheckInRecommendation m_FormCheckIn = null;
         private FormFaceLikers m_FormFriendRater = null;
 
